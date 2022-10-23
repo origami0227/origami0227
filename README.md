@@ -4,7 +4,7 @@
 
 
 - 🍻 Student at 🇨🇳 [SWJTU](https://www.swjtu.edu.cn/), _BSc in Japanese literature_
-- ⚡ JavaScript / TypeScript.
+- ⚡  ES6 / TypeScript/ Vue / React.
 - 🖋 Blogger at [juejin](https://juejin.cn/user/1394649148430445/posts) and [zhihu](https://www.zhihu.com/people/maoudainin/posts)
 - 🏃 coding / fitness / Aerobic exercise / Table Tennis 
 
